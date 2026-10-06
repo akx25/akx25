@@ -5,7 +5,7 @@
 
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,discord,arch,windows,linux,vscode,visualstudio,github,vim,neovim," />
+  <img src="https://skillicons.dev/icons?i=py,discord,windows,linux,vscode,visualstudio,github,vim,neovim," />
 </div>
 
 <p>
