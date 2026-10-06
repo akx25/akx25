@@ -5,7 +5,7 @@
 
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,discord,arch,windows,vscode,visualstudio,vim" />
+  <img src="https://skillicons.dev/icons?i=py,discord,arch,windows,linux,vscode,visualstudio,github,vim,neovim," />
 </div>
 
 <p>
@@ -13,3 +13,8 @@
 </p>
 
 
+
+
+
+
+https://github.com/tandpfun/skill-icons
