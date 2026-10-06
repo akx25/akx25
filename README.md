@@ -1,7 +1,7 @@
 # Hello!
 
-I like coding in Python.
-I use Windows 11 & CachyOS.
++ I like coding in Python.
++ I use Windows 11 & CachyOS.
 
 
 <div align="left">
